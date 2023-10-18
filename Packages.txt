@@ -1,0 +1,13 @@
+Package: com.bvn.faced
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.bvn.faced
+Size: 152
+Description: Chan quang cao facebookb
+Name: Faced (Roothide)
+Author: 34306
+
